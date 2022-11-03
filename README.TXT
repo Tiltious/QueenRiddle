@@ -5,10 +5,10 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: QueenRiddle
-PURPOSE OF PROJECT: University Assignment
+PURPOSE OF PROJECT: University Assignment on data structures
 VERSION or DATE: 
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Miltiadis Ouzounis - https://www.linkedin.com/in/miltiades-ouzounis-697a981b8/
 USER INSTRUCTIONS:
 
 The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. There are 92 solutions. The problem was first posed in the mid-19th century. 
